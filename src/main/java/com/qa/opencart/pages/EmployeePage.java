@@ -6,6 +6,10 @@ public class EmployeePage {
 	
 	public void login() {
 		System.out.println("divya --10");		
+		
+		System.out.println("enf of the code");	
+		
+		System.out.println("done!");	
 	}
 	
 	
